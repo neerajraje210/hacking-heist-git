@@ -1,11 +1,11 @@
 import Head from "next/head";
 
 export default function Meta() {
-  const title = "CodeDay - Intro to Git/GitHub";
-  const description = "Learn the basics of Git/GitHub!";
-  const keywords = "codeday, github, hello world";
+  const title = "Hacking Heist - Intro to Git";
+  const description = "Learn the basics of Git!";
+  const keywords = "hacking heist, hackathon, workshop, github, hello world";
   const author = "";
-  const twitter = "@codeday";
+  const twitter = "";
   //const image = "/ogimage.png"; // This is your OpenGraph image
   return (
     <Head>

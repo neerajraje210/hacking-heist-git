@@ -34,12 +34,12 @@ export default function Nav() {
       <nav className="p-3px-5  dark:text-white static object-center">
         <div className="object-center mb-8">
           <a
-            href="https://github.com/eilla1/CodeDay-GitHubWorkshop"
+            href="https://hackingheist.tech"
             target="_blank"
             rel="noreferrer"
             className="hover:text-gray-500"
           >
-            <h1 className="text-center sm:text-6xl font-semibold text-5xl">Hackathon Name</h1>
+            <h1 className="text-center sm:text-6xl font-semibold text-5xl">Hacking Heist</h1>
             <h2 className="text-center text-2xl">Introduction to git</h2>
           </a>
         </div>
