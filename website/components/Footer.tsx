@@ -4,7 +4,7 @@ import { useTheme } from "next-themes";
 export default function Footer() {
   const { theme, setTheme } = useTheme();
   return (
-    <div className="pt-4 pb-4 absolute bottom-4 w-full text-center">
+    <div className="pb-4 w-full text-center">
       <div>
         <div>
           <p className="p-2">
